@@ -10,5 +10,5 @@ This project contains following documents:\
 4.Defect reports - recorded defects, with additional defect details.\
 \
 I have also automated test cases using Python language and its pyTest tool.\
-Automated cases are located in pytest-pcpress directory.\
+Automated cases are located in pytest-pcpress directory.
  
